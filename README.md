@@ -1,2 +1,2 @@
 # UTN-EntornosGraficos
-Repositorio para la materia Entornos Graficos
+Repositorio para los trabajos practicos de la materia Entornos Graficos
